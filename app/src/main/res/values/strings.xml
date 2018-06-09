@@ -30,4 +30,9 @@
 
     <string name="numbers_activity_label">Numbers</string>
 
+    <string name="family_activity_label">Family Members</string>
+
+    <string name="colors_activity_label">Colors</string>
+
+    <string name="phrases_activity_label">Phrases</string>
 </resources>
